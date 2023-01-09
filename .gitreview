@@ -1,0 +1,6 @@
+[gerrit]
+host=gerrit.cpqd.com.br
+port=29418
+project=sandbox/helloworld.git
+defaultbranch=master
+defaultremote=gerrit
